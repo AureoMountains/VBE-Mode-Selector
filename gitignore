@@ -1,0 +1,17 @@
+/build/
+
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+core
+core.*
+
+.vscode/
+.idea/
+.cache/
+
+.DS_Store
+Thumbs.db
